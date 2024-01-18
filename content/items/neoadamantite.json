@@ -3,7 +3,7 @@
     "cost": 5,
     "color": "152267",
     "research": {
-        "parent": "neo-mod-neocromium",
+        "parent": "neocromium",
         "requirements": [
             "copper/1"
         ]
