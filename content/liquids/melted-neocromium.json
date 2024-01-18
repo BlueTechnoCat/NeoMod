@@ -5,8 +5,9 @@
     "color": "E0A867",
     "lightColor": "D8BC9E",
     "research": {
+        "parent": "copper",
         "objectives": [
-            "produce/neo-mod-melted-neocromium"
+            "produce"
         ]
     }
 }
