@@ -1,0 +1,12 @@
+{
+    "temperature": 3.5,
+    "viscosity": 0.78,
+    "effect": "melting",
+    "color": "E0A867",
+    "lightColor": "FFDC97",
+    "research": {
+        "objectives": [
+            "produce/neo-mod-melted-neocromium"
+        ]
+    }
+}
