@@ -5,7 +5,7 @@
     "research": {
         "parent": "melted-neocromium",
         "objectives": [
-            "produce"
+            "produce/neocromium"
         ]
     }
 }
