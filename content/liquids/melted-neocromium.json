@@ -3,7 +3,7 @@
     "viscosity": 0.78,
     "effect": "melting",
     "color": "E0A867",
-    "lightColor": "FFDC97",
+    "lightColor": "D8BC9E",
     "research": {
         "objectives": [
             "produce/neo-mod-melted-neocromium"
