@@ -3,7 +3,7 @@
     "cost" : 0,
     "color": "747067",
     "research": {
-        "parent": "",
+        "parent": "lead",
         "requirements": [
             "copper/1"
         ]

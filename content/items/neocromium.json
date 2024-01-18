@@ -3,7 +3,7 @@
     "cost": 5,
     "color": "15222F",
     "research": {
-        "parent": "",
+        "parent": "copper",
         "objectives": [
             "produce/neo-mod-neocromium"
         ]
