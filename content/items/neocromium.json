@@ -1,0 +1,11 @@
+{
+    "hardness": 100,
+    "cost": 5,
+    "color": "15222F",
+    "research": {
+        "parent": "",
+        "objectives": [
+            "produce/neo-mod-neocromium"
+        ]
+    }
+}

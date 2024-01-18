@@ -1,0 +1,11 @@
+{
+    "hardness": 100,
+    "cost": 5,
+    "color": "152267",
+    "research": {
+        "parent": "neo-mod-neocromium",
+        "requirements": [
+            "copper/1"
+        ]
+    }
+}
