@@ -1,0 +1,31 @@
+{
+    "type" : "Separator",
+    "health": 2400,
+    "size": 3,
+    "hasPower" : true,
+    "hasLiquids": true,
+    "hasItems": true,
+    "craftTime": 120,
+    "liquidCapacity": "60",
+    "consumes" : {
+        "power" : 0.5,
+        "items" : [
+            "adamantite/2"
+        ],
+        "liquids" : [
+            "melted-neocromium/0.25"
+        ]
+    },
+    "category": "crafting",
+    "results": [
+        "neoadamantite/5",
+        "neoadamantite-frame/5"
+    ],
+    "research": {
+        "parent": "adamantite-breaker",
+        "objectives": [
+            "melted-neocromium",
+            "adamantite"
+        ]
+    }
+}

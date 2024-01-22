@@ -1,0 +1,18 @@
+{
+    "type" : "GenericCrafter",
+    "health": 1600,
+    "size": 2,
+    "hasPower" : true,
+    "hasLiquids": true,
+    "craftTime": 65,
+    "liquidCapacity": "60",
+    "consumes" : {
+        "power" : 0.5,
+        "liquids" : [
+            "slag/0.25"
+        ]
+    },
+    "category": "production",
+    "outputLiquid": "melted-neocromium/0.25",
+    "research": "surge-smelter"
+}

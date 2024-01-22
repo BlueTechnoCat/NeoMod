@@ -4,5 +4,10 @@
     "effect": "melting",
     "color": "E0A867",
     "lightColor": "D8BC9E",
-    "research":  "copper"
+    "research":  {
+        "parent": "slag",
+        "objectives": [
+            "neo-extractor"
+        ]
+    }
 }
