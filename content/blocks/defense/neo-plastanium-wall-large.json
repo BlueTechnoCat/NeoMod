@@ -1,0 +1,14 @@
+{
+    "type": "Wall",
+    "health": 500000000,
+    "armor": 100000,
+    "size": 2,
+    "chanceDeflect": 1,
+    "insulated": true,
+    "absorbLasers": true,
+    "requirements": [
+        "plastanium/24",
+        "neoadamantite-frame/2"
+    ],
+    "research": "neo-plastanium-wall"
+}

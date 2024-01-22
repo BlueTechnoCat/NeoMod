@@ -1,0 +1,14 @@
+{
+    "type": "Wall",
+    "health": 500000000,
+    "armor": 100000,
+    "size": 1,
+    "chanceDeflect": 1,
+    "lightningChance": 0.3,
+    "lightningDamage": 50,
+    "requirements": [
+        "surge-alloy/6",
+        "neoadamantite-frame/2"
+    ],
+    "research": "surge-wall-large"
+}

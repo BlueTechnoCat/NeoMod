@@ -12,6 +12,13 @@
             "slag/0.25"
         ]
     },
+    "requirements": [
+        "lead/600",
+        "silicon/650",
+        "plastanium/400",
+        "titanium/500",
+        "thorium/350"
+    ],
     "category": "production",
     "outputLiquid": "melted-neocromium/0.25",
     "research": "surge-smelter"

@@ -4,11 +4,19 @@
     "size": 2,
     "hasPower" : true,
     "craftTime": 35,
+    "craftEffect": "mineImpact",
     "consumes" : {
         "power" : 0.5
     },
     "category": "production",
     "outputItem": "adamantite/2",
+    "requirements": [
+        "lead/600",
+        "silicon/650",
+        "graphite/550",
+        "titanium/500",
+        "thorium/350"
+    ],
     "research": {
         "parent": "neo-extractor",
         "objectives": [

@@ -1,0 +1,17 @@
+{
+    "type": "Wall",
+    "health": 500000000,
+    "armor": 100000,
+    "size": 2,
+    "chanceDeflect": 1,
+    "lightningChance": 0.6,
+    "lightningDamage": 100,
+    "insulated": true,
+    "absorbLasers": true,
+    "requirements": [
+        "surge-alloy/12",
+        "plastanium/12",
+        "neoadamantite-frame/2"
+    ],
+    "research": "neo-specialty-wall"
+}

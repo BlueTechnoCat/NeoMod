@@ -1,5 +1,5 @@
 {
-    "type" : "Separator",
+    "type" : "GenericCrafter",
     "health": 2400,
     "size": 3,
     "hasPower" : true,
@@ -17,9 +17,17 @@
         ]
     },
     "category": "crafting",
-    "results": [
-        "neoadamantite/5",
-        "neoadamantite-frame/5"
+    "outputItems": [
+        "neoadamantite/1",
+        "neoadamantite-frame/1"
+    ],
+    "requirements": [
+        "lead/600",
+        "silicon/650",
+        "surge-alloy/400",
+        "titanium/500",
+        "thorium/350",
+        "phase-fabric/120"
     ],
     "research": {
         "parent": "adamantite-breaker",

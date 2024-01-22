@@ -1,0 +1,23 @@
+{
+    "type": "Wall",
+    "health": 500000000,
+    "armor": 100000,
+    "size": 1,
+    "chanceDeflect": 1,
+    "lightningChance": 0.3,
+    "lightningDamage": 50,
+    "insulated": true,
+    "absorbLasers": true,
+    "requirements": [
+        "surge-alloy/3",
+        "plastanium/3",
+        "neoadamantite-frame/2"
+    ],
+    "research": {
+        "parent": "neo-surge-wall-large",
+        "objectives": [
+            "neo-plastanium-wall-large",
+            "neo-surge-wall-large"
+        ]
+    }
+}
