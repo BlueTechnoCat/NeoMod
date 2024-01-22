@@ -4,10 +4,5 @@
     "effect": "melting",
     "color": "E0A867",
     "lightColor": "D8BC9E",
-    "research": {
-        "parent": "copper",
-        "objectives": [
-            "melted-neocromium"
-        ]
-    }
+    "research":  "copper"
 }

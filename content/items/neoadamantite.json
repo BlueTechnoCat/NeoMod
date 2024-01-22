@@ -2,10 +2,5 @@
     "hardness": 100,
     "cost": 5,
     "color": "152267",
-    "research": {
-        "parent": "neocromium",
-        "requirements": [
-            "copper/1"
-        ]
-    }
+    "research": "neocromium"
 }

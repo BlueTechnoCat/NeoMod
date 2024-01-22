@@ -2,10 +2,6 @@
     "hardness": 100,
     "cost": 5,
     "color": "15222F",
-    "research": {
-        "parent": "melted-neocromium",
-        "objectives": [
-            "neocromium"
-        ]
-    }
+    "research": "melted-neocromium"
+        
 }
