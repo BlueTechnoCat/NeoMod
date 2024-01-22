@@ -19,5 +19,6 @@
             "neo-plastanium-wall-large",
             "neo-surge-wall-large"
         ]
-    }
+    },
+    "category": "defense"
 }

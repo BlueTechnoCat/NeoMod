@@ -8,5 +8,6 @@
         "thorium/6",
         "neoadamantite-frame/2"
     ],
-    "research": "thorium-wall-large"
+    "research": "thorium-wall-large",
+    "category": "defense"
 }

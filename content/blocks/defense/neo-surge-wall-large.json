@@ -10,5 +10,6 @@
         "surge-alloy/24",
         "neoadamantite-frame/2"
     ],
-    "research": "neo-surge-wall"
+    "research": "neo-surge-wall",
+    "category": "defense"
 }

@@ -10,5 +10,6 @@
         "plastanium/6",
         "neoadamantite-frame/2"
     ],
-    "research": "plastanium-wall-large"
+    "research": "plastanium-wall-large",
+    "category": "defense"
 }

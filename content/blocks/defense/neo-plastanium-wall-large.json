@@ -10,5 +10,6 @@
         "plastanium/24",
         "neoadamantite-frame/2"
     ],
-    "research": "neo-plastanium-wall"
+    "research": "neo-plastanium-wall",
+    "category": "defense"
 }

@@ -13,5 +13,6 @@
         "plastanium/12",
         "neoadamantite-frame/2"
     ],
-    "research": "neo-specialty-wall"
+    "research": "neo-specialty-wall",
+    "category": "defense"
 }
