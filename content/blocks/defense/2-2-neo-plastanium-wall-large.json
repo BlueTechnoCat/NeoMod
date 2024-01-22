@@ -4,12 +4,12 @@
     "armor": 100000,
     "size": 2,
     "chanceDeflect": 1,
-    "lightningChance": 0.6,
-    "lightningDamage": 100,
+    "insulated": true,
+    "absorbLasers": true,
     "requirements": [
-        "surge-alloy/24",
+        "plastanium/24",
         "neoadamantite-frame/2"
     ],
-    "research": "neo-surge-wall",
+    "research": "2-1-neo-plastanium-wall",
     "category": "defense"
 }

@@ -4,10 +4,15 @@
     "armor": 100000,
     "size": 2,
     "chanceDeflect": 1,
+    "lightningChance": 0.6,
+    "lightningDamage": 100,
+    "insulated": true,
+    "absorbLasers": true,
     "requirements": [
-        "thorium/24",
+        "surge-alloy/12",
+        "plastanium/12",
         "neoadamantite-frame/2"
     ],
-    "research": "neo-thorium-wall",
+    "research": "4-1-neo-specialty-wall",
     "category": "defense"
 }
