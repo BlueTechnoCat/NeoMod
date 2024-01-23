@@ -10,16 +10,16 @@
     "consumes" : {
         "power" : 0.5,
         "items" : [
-            "2-adamantite/2"
+            "4-2-adamantite/2"
         ],
         "liquids" : [
-            "1-melted-neocromium/0.25"
+            "5-1-melted-neocromium/0.25"
         ]
     },
     "category": "crafting",
     "outputItems": [
-        "3-neoadamantite/1",
-        "4-neoadamantite-frame/1"
+        "4-3-neoadamantite/1",
+        "4-4-neoadamantite-frame/1"
     ],
     "requirements": [
         "lead/600",
@@ -30,10 +30,10 @@
         "phase-fabric/120"
     ],
     "research": {
-        "parent": "2-adamantite-breaker",
+        "parent": "1-2-adamantite-breaker",
         "objectives": [
-            "1-melted-neocromium",
-            "2-adamantite"
+            "5-1-melted-neocromium",
+            "4-2-adamantite"
         ]
     }
 }

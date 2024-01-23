@@ -8,7 +8,7 @@
     "lightningDamage": 50,
     "requirements": [
         "surge-alloy/6",
-        "4-neoadamantite-frame/2"
+        "4-4-neoadamantite-frame/2"
     ],
     "research": "surge-wall-large",
     "category": "defense"

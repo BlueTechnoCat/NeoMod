@@ -6,7 +6,7 @@
     "chanceDeflect": 1,
     "requirements": [
         "thorium/6",
-        "4-neoadamantite-frame/2"
+        "4-4-neoadamantite-frame/2"
     ],
     "research": "thorium-wall-large",
     "category": "defense"

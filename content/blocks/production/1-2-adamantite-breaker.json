@@ -3,13 +3,13 @@
     "health": 1000,
     "size": 2,
     "hasPower" : true,
-    "craftTime": 35,
+    "craftTime": 75,
     "craftEffect": "mineImpact",
     "consumes" : {
         "power" : 0.5
     },
     "category": "production",
-    "outputItem": "2-adamantite/2",
+    "outputItem": "4-2-adamantite/2",
     "requirements": [
         "lead/600",
         "silicon/650",
@@ -18,9 +18,9 @@
         "thorium/350"
     ],
     "research": {
-        "parent": "1-neo-extractor",
+        "parent": "1-1-neo-extractor",
         "objectives": [
-            "1-melted-neocromium"
+            "5-1-melted-neocromium"
         ]
     }
 }

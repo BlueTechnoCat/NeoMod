@@ -3,10 +3,10 @@
     "cost": 5,
     "color": "152267",
     "research": {
-        "parent": "1-neocromium",
+        "parent": "4-1-neocromium",
         "objectives": [
-            "1-melted-neocromium",
-            "2-adamantite"
+            "5-1-melted-neocromium",
+            "4-2-adamantite"
         ]
     }
 }

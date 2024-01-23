@@ -11,13 +11,13 @@
     "requirements": [
         "surge-alloy/3",
         "plastanium/3",
-        "4-neoadamantite-frame/2"
+        "4-4-neoadamantite-frame/2"
     ],
     "research": {
-        "parent": "3-2-neo-surge-wall-large",
+        "parent": "3-6-neo-surge-wall-large",
         "objectives": [
-            "2-2-neo-plastanium-wall-large",
-            "3-2-neo-surge-wall-large"
+            "3-4-neo-plastanium-wall-large",
+            "3-6-neo-surge-wall-large"
         ]
     },
     "category": "defense"

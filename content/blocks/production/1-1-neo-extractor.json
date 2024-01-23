@@ -20,6 +20,6 @@
         "thorium/350"
     ],
     "category": "production",
-    "outputLiquid": "1-melted-neocromium/0.25",
+    "outputLiquid": "5-1-melted-neocromium/0.25",
     "research": "surge-smelter"
 }
