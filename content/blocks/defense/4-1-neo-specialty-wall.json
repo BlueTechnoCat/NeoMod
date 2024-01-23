@@ -11,7 +11,7 @@
     "requirements": [
         "surge-alloy/3",
         "plastanium/3",
-        "neoadamantite-frame/2"
+        "4-neoadamantite-frame/2"
     ],
     "research": {
         "parent": "3-2-neo-surge-wall-large",

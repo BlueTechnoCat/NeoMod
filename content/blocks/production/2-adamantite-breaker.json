@@ -18,9 +18,9 @@
         "thorium/350"
     ],
     "research": {
-        "parent": "neo-extractor",
+        "parent": "1-neo-extractor",
         "objectives": [
-            "melted-neocromium"
+            "1-melted-neocromium"
         ]
     }
 }

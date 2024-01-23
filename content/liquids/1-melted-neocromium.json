@@ -7,7 +7,7 @@
     "research":  {
         "parent": "slag",
         "objectives": [
-            "neo-extractor"
+            "1-neo-extractor"
         ]
     }
 }

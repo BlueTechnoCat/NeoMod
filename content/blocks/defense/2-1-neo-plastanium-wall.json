@@ -8,7 +8,7 @@
     "absorbLasers": true,
     "requirements": [
         "plastanium/6",
-        "neoadamantite-frame/2"
+        "4-neoadamantite-frame/2"
     ],
     "research": "plastanium-wall-large",
     "category": "defense"

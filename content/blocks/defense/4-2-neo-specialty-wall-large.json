@@ -11,7 +11,7 @@
     "requirements": [
         "surge-alloy/12",
         "plastanium/12",
-        "neoadamantite-frame/2"
+        "4-neoadamantite-frame/2"
     ],
     "research": "4-1-neo-specialty-wall",
     "category": "defense"
