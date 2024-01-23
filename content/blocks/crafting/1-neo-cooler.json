@@ -1,0 +1,27 @@
+{
+    "type" : "GenericCrafter",
+    "health": 700,
+    "size": 2,
+    "hasPower" : true,
+    "hasLiquids": true,
+    "hasItems": true,
+    "craftTime": 100,
+    "liquidCapacity": "30",
+    "consumes" : {
+        "power" : 0.28,
+        "liquids" : [
+            "1-melted-neocromium/0.25"
+        ]
+    },
+    "category": "crafting",
+    "outputItem": "1-neocromium/1"
+    ,
+    "requirements": [
+        "lead/600",
+        "silicon/650",
+        "metaglass/400",
+        "titanium/500",
+        "thorium/350"
+    ],
+    "research": "1-neo-extractor"
+}

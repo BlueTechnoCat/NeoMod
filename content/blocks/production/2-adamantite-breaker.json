@@ -9,7 +9,7 @@
         "power" : 0.5
     },
     "category": "production",
-    "outputItem": "adamantite/2",
+    "outputItem": "2-adamantite/2",
     "requirements": [
         "lead/600",
         "silicon/650",

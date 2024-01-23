@@ -2,5 +2,11 @@
     "hardness": 100,
     "cost": 5,
     "color": "152267",
-    "research": "neocromium"
+    "research": {
+        "parent": "1-neocromium",
+        "objectives": [
+            "1-melted-neocromium",
+            "2-adamantite"
+        ]
+    }
 }
