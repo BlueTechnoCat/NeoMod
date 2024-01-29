@@ -2,6 +2,29 @@
     "type" : "GenericCrafter",
     "health": 1600,
     "size": 2,
+    "drawer": [
+        {
+            "type": "DrawRegion",
+            "suffix": "-bottom"
+        },
+        {
+            "type": "DrawLiquidRegion",
+            "drawLiquid": "slag",
+            "suffix": "-liquid-1"
+        },
+        {
+            "type": "DrawLiquidRegion",
+            "drawLiquid": "5-1-melted-neocromium",
+            "suffix": "-liquid-2"
+        },
+        {
+            "type": "DrawDefault"
+        },
+        {
+            "type": "DrawRegion",
+            "suffix": "-top"
+        }
+    ],
     "hasPower" : true,
     "hasLiquids": true,
     "craftTime": 65,
