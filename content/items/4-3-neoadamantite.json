@@ -1,7 +1,7 @@
 {
     "hardness": 100,
     "cost": 5,
-    "color": "152267",
+    "color": "1d7057",
     "research": {
         "parent": "4-1-neocromium",
         "objectives": [
