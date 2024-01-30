@@ -46,7 +46,7 @@
         "titanium/500",
         "thorium/350"
     ],
-    "category": "production",
+    "category": "crafting",
     "outputLiquid": "5-2-adamantite-coolant/0.2",
     "research": {
         "parent": "1-2-adamantite-breaker",

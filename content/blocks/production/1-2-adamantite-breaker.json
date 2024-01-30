@@ -2,6 +2,19 @@
     "type": "GenericCrafter",
     "health": 1000,
     "size": 2,
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawFrames",
+                "frames": 5,
+                "interval": 15
+            }
+        ]
+    },
     "hasPower": true,
     "craftTime": 75,
     "craftEffect": "mineImpact",
