@@ -1,18 +1,18 @@
 {
-    "type" : "GenericCrafter",
+    "type": "GenericCrafter",
     "health": 2400,
     "size": 3,
-    "hasPower" : true,
+    "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
     "craftTime": 120,
     "liquidCapacity": "60",
-    "consumes" : {
-        "power" : 0.5,
-        "items" : [
+    "consumes": {
+        "power": 0.5,
+        "items": [
             "4-2-adamantite/2"
         ],
-        "liquids" : [
+        "liquids": [
             "5-1-melted-neocromium/0.25"
         ]
     },

@@ -4,7 +4,7 @@
     "effect": "melting",
     "color": "E0A867",
     "lightColor": "D8BC9E",
-    "research":  {
+    "research": {
         "parent": "slag",
         "objectives": [
             "1-1-neo-extractor"

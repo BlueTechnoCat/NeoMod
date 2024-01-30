@@ -1,21 +1,20 @@
 {
-    "type" : "GenericCrafter",
+    "type": "GenericCrafter",
     "health": 700,
     "size": 2,
-    "hasPower" : true,
+    "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
     "craftTime": 100,
     "liquidCapacity": "30",
-    "consumes" : {
-        "power" : 0.28,
-        "liquids" : [
+    "consumes": {
+        "power": 0.28,
+        "liquids": [
             "5-1-melted-neocromium/0.25"
         ]
     },
     "category": "crafting",
-    "outputItem": "4-1-neocromium/1"
-    ,
+    "outputItem": "4-1-neocromium/1",
     "requirements": [
         "lead/600",
         "silicon/650",
