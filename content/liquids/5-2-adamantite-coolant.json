@@ -1,0 +1,14 @@
+{
+    "temperature": -100,
+    "viscosity": 0.48,
+    "heatCapacity": 100,
+    "effect": "freezing",
+    "color": "7470eb",
+    "lightColor": "9994ff",
+    "research": {
+        "parent": "cryofluid",
+        "objectives": [
+            "1-2-adamantite-breaker"
+        ]
+    }
+}
