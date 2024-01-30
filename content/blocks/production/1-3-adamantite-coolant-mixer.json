@@ -1,0 +1,58 @@
+{
+    "type": "GenericCrafter",
+    "health": 1600,
+    "size": 2,
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawRegion",
+                "suffix": "-bottom"
+            },
+            {
+                "type": "DrawLiquidTile",
+                "drawLiquid": "water"
+            },
+            {
+                "type": "DrawLiquidTile",
+                "drawLiquid": "5-2-adamantite-coolant"
+            },
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawRegion",
+                "suffix": "-top"
+            }
+        ]
+    },
+    "hasPower": true,
+    "hasLiquids": true,
+    "craftTime": 75,
+    "liquidCapacity": "60",
+    "consumes": {
+        "power": 0.5,
+        "liquids": [
+            "water/0.2"
+        ],
+        "items": [
+            "4-2-adamantite/1"
+        ]
+    },
+    "requirements": [
+        "copper/600",
+        "silicon/650",
+        "plastanium/400",
+        "titanium/500",
+        "thorium/350"
+    ],
+    "category": "production",
+    "outputLiquid": "5-2-adamantite-coolant/0.2",
+    "research": {
+        "parent": "1-2-adamantite-breaker",
+        "objectives": [
+            "cryofluid",
+            "4-2-adamantite"
+        ]
+    }
+}
