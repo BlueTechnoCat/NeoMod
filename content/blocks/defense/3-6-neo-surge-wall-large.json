@@ -10,6 +10,9 @@
         "surge-alloy/24",
         "4-4-neoadamantite-frame/2"
     ],
-    "research": "3-5-neo-surge-wall",
+    "research": {
+        "parent": "3-5-neo-surge-wall",
+        "planet": "serpulo"
+    },
     "category": "defense"
 }

@@ -5,4 +5,3 @@
 # Ignore .ase files in general, please?
 
 *.ase
-sprites/**/*.ase

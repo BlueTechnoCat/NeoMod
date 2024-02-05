@@ -2,6 +2,26 @@
     "type": "GenericCrafter",
     "health": 700,
     "size": 2,
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawRegion",
+                "suffix": "-bottom"
+            },
+            {
+                "type": "DrawLiquidTile",
+                "drawLiquid": "5-1-melted-neocromium"
+            },
+            {
+                "type": "DrawDefault"
+            },
+            {
+                "type": "DrawRegion",
+                "suffix": "-top"
+            }
+        ]
+    },
     "hasPower": true,
     "hasLiquids": true,
     "hasItems": true,
