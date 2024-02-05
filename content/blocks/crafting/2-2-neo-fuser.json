@@ -7,6 +7,18 @@
     "hasItems": true,
     "craftTime": 120,
     "liquidCapacity": "60",
+    "drawer": {
+        "type": "DrawMulti",
+        "drawers": [
+            {
+                "type": "DrawLiquidTile",
+                "drawLiquid": "5-1-melted-neocromium"
+            },
+            {
+                "type": "DrawDefault"
+            }
+        ]
+    },
     "consumes": {
         "power": 0.5,
         "items": [
