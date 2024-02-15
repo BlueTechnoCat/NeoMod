@@ -2,5 +2,8 @@
     "hardness": 100,
     "cost": 5,
     "color": "1d70577f",
-    "research": "4-3-neoadamantite"
+    "research": {
+        "parent": "4-3-neoadamantite",
+        "planet": "serpulo"
+    }
 }
