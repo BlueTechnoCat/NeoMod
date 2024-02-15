@@ -11,11 +11,11 @@
         "type": "DrawMulti",
         "drawers": [
             {
-                "type": "DrawLiquidTile",
-                "drawLiquid": "5-1-melted-neocromium"
+                "type": "DrawDefault"
             },
             {
-                "type": "DrawDefault"
+                "type": "DrawLiquidRegion",
+                "drawLiquid": "5-1-melted-neocromium"
             }
         ]
     },
