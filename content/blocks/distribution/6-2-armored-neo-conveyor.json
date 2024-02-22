@@ -1,0 +1,16 @@
+{
+    "type": "ArmoredConveyor",
+    "health": 500000000,
+    "armor": 1000,
+    "itemCapacity": 5,
+    "speed": 0.15,
+    "displayedSpeed": 20,
+    "requirements": [
+        "4-4-neoadamantite-frame/1",
+        "thorium/1",
+        "titanium/1",
+        "plastanium/1"
+    ],
+    "research": "6-1-neo-conveyor",
+    "category": "distribution"
+}
