@@ -1,0 +1,25 @@
+{
+    "type": "CoreBlock",
+    "health": 500000000,
+    "armor": 1000,
+    "unitType": "gamma",
+    "itemCapacity": 25000,
+    "unitCapModifier": 32,
+    "size": 6,
+    "thrusterLength": 12,
+    "researchCostMultiplier": 0.15,
+    "requirements": [
+        "copper/12000",
+        "lead/12000",
+        "silicon/7500",
+        "thorium/6500",
+        "plastanium/2500",
+        "4-4-neoadamantite-frame/750"
+    ],
+    "research": {
+        "parent": "core-nucleus",
+        "objectives": [
+            "4-4-neoadamantite-frame"
+        ]
+    }
+}
