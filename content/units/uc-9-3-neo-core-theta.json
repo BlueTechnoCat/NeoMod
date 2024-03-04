@@ -1,0 +1,54 @@
+{
+    "type": "flying",
+    "template": "UnitType",
+    "flying": true,
+    "lowAltitude": true,
+    "mineSpeed": 10,
+    "mineTier": 3,
+    "buildSpeed": 1.4,
+    "speed": 4.12,
+    "rotateSpeed": 22,
+    "drag": 0.04,
+    "accel": 0.13,
+    "hitSize": 12,
+    "itemCapacity": 90,
+    "maxRange": 35,
+    "health": 500,
+    "armor": 5,
+    "engineOffset": 6,
+    "immunities": [
+        "burning",
+        "melting"
+    ],
+    "weapons": [
+        {
+            "name": "small-theta-weapon",
+            "reload": 12,
+            "shoot": {
+                "type": "ShootSpread",
+                "shots": 2,
+                "shotDelay": 3,
+                "spread": 1.5
+            },
+            "mirror": true,
+            "alternate": true,
+            "ejectEffect": "casing1",
+            "inaccuracy": 2,
+            "bullet": {
+                "type": "BasicBulletType",
+                "width": 6.5,
+                "height": 11,
+                "lifetime": 80,
+                "speed": 3.55,
+                "damage": 11,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "buildingDamageMultiplier": 0.01,
+                "homingPower": 0.1,
+                "splashDamage": 11,
+                "splashDamageRadius": 28,
+                "splashDamagePierce": false
+            }
+        }
+    ]
+}

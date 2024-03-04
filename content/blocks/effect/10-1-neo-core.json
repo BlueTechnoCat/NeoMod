@@ -2,7 +2,7 @@
     "type": "CoreBlock",
     "health": 500000000,
     "armor": 1000,
-    "unitType": "gamma",
+    "unitType": "uc-9-3-neo-core-theta",
     "itemCapacity": 25000,
     "unitCapModifier": 32,
     "size": 6,
