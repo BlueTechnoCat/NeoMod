@@ -22,7 +22,7 @@
     ],
     "weapons": [
         {
-            "name": "small-theta-weapon",
+            "name": "small-mount-weapon",
             "reload": 12,
             "shoot": {
                 "type": "ShootSpread",
