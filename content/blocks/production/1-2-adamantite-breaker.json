@@ -11,7 +11,7 @@
             {
                 "type": "DrawFrames",
                 "frames": 5,
-                "interval": 15
+                "interval": 13
             }
         ]
     },
