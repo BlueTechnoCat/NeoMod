@@ -2,8 +2,10 @@
 
 *.zip
 
-# Ignore .ase files in general, please?
+# Ignore .ase files in general
 
 *.ase
+
+# Ignoring the TODO because this is only for my eyes
 
 TODO.MD
